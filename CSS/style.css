@@ -192,8 +192,8 @@ color: #DBDBDD;
 }
 
 .sectionblock{
-  width: 10px;
-  height:10px;
+  width: 100px;
+  height:70px;
   position:absolute;
   top: 300%;
   color:#080913;
