@@ -191,6 +191,14 @@ color: #DBDBDD;
   animation: slideup 1s forwards;
 }
 
+.sectionblock{
+  width: 10px;
+  height:10px;
+  position:absolute;
+  top: 300%;
+  color:#080913;
+}
+
 /* *{
   margin: 0;
   padding: 0;
